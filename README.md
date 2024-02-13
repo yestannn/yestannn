@@ -23,7 +23,8 @@ I'm a Software Developer, when I write code, I don't just create a program, I he
 - 💬 Ask me about Life, Technology, Music, Movie
 - 📫 How to reach me:
   -  [LinkedIn](https://linkedin.com/in/byesbol)
-  -  [Instagram](https://instagram.com/y.bavarkhan)
+  -  [Telegram](https://t.me/yestannn)
+  -  [Instagram](https://www.instagram.com/bvrkhnn/)
 - ⚡ Fun fact: I prefer tea over coffee.
 
 #### Have a good day!
