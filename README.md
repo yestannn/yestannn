@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 I'm a Software Developer, when I write code, I don't just create a program, I help businesses and people
 
-- 🔭 I’m currently working on OpenVision
+- 🔭 I’m currently working in Bilim Innovation Fund
 - 🌱 I’m currently learning about microservices, async 
 - 💬 Ask me about Life, Technology, Music, Movie
 - 📫 How to reach me:
